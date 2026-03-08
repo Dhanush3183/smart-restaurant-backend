@@ -15,7 +15,6 @@ target/
 *.ipr
 
 # Spring Boot
-application.yml
 application.properties
 
 # OS
